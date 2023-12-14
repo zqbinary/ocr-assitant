@@ -1,0 +1,5 @@
+pyperclip
+keyboard
+win10toast
+zhipuai
+python-dotenv
